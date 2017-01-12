@@ -1,3 +1,4 @@
 # gLOD
 GitHub Literacy Object Drawings
-[](gLOD/restart.svg)
+[restart.svg](restart.svg)
+gLOD/
